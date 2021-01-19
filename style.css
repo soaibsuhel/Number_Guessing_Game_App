@@ -1,0 +1,31 @@
+body {
+    background-color: #3f898b;
+}
+
+#container {
+    background-color: cadetblue;
+    border: 5px solid white;
+    height: 275px;
+    width: 750px;
+    margin: auto;
+    text-align: center;
+}
+
+p {
+    color: white;
+    font-size: 24px;
+}
+
+#userInput {
+    width: 100px;
+    margin: 25px auto;
+    
+}
+
+#btn {
+    margin: 25px auto auto 5px;
+}
+h2 {
+    text-align: center;
+    text-overflow:initial;
+}
